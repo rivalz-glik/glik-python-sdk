@@ -1,0 +1,1 @@
+recursive-include glik_sdk *.py
